@@ -38,7 +38,7 @@ Este projeto está aberto para contribuições e melhorias. Aqui estão alguns d
 
 ## Implantar
 
-O projeto está disponível em solares-novo.vercel.app no Vercel para visualização.
+O projeto está disponível em https://solares-novo.vercel.app/ no Vercel para visualização.
 
 Seja bem-vindo ao Solares, e sinta-se à vontade para contribuir ou entrar em contato conosco!
 
