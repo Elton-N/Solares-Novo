@@ -2,8 +2,6 @@
 
 Este é um clone da página "Solares", uma aplicação web de demonstração para práticas de desenvolvimento web. Esta aplicação replica o design e a funcionalidade básica da página "Solares" original.
 
-![Screenshot da Página Solares](screenshot.png)
-
 ## Visão Geral
 
 O clone da página "Solares" é uma demonstração de como criar uma página web responsiva e atraente usando HTML, CSS e possivelmente JavaScript. Este projeto foi criado com fins educacionais e de aprendizado.
@@ -40,7 +38,7 @@ Este projeto está aberto para contribuições e melhorias. Aqui estão alguns d
 
 ## Implantar
 
-O projeto está disponível em Clone-Sistok no Vercel para visualização.
+O projeto está disponível em solares-novo.vercel.app no Vercel para visualização.
 
 Seja bem-vindo ao Solares, e sinta-se à vontade para contribuir ou entrar em contato conosco!
 
