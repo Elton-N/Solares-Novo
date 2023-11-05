@@ -38,3 +38,9 @@ Este projeto está aberto para contribuições e melhorias. Aqui estão alguns d
 
 3. **Otimização para Dispositivos Móveis**: Certifique-se de que a página seja completamente responsiva em dispositivos móveis, aprimorando a experiência do usuário em smartphones e tablets.
 
+## Implantar
+
+O projeto está disponível em Clone-Sistok no Vercel para visualização.
+
+Seja bem-vindo ao Solares, e sinta-se à vontade para contribuir ou entrar em contato conosco!
+
