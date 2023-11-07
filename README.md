@@ -27,14 +27,10 @@ Vídeos
 Outros arquivos
 
 ## Desafios
+Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes desafios:
 
-Este projeto está aberto para contribuições e melhorias. Aqui estão alguns desafios que você pode considerar ao contribuir para este projeto:
-
-1. **Melhorias no Design**: Proponha melhorias no design e estilo do clone da página "Solares". Isso inclui aprimorar a paleta de cores, tipografia e layout para torná-lo ainda mais atraente.
-
-2. **Adição de Recursos**: Adicione novos recursos e funcionalidades à página, como animações, formulários interativos, ou até mesmo uma página de blog fictícia.
-
-3. **Otimização para Dispositivos Móveis**: Certifique-se de que a página seja completamente responsiva em dispositivos móveis, aprimorando a experiência do usuário em smartphones e tablets.
+A organização eficiente de elementos em linhas e colunas proporciona uma experiência de usuário agradável.
+Utilização de elementos sobrepostos para criar camadas de design envolventes e interessantes.
 
 ## Implantar
 
