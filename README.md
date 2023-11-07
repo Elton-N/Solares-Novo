@@ -6,12 +6,6 @@ Este é um clone da página "Solares", uma aplicação web de demonstração par
 
 O clone da página "Solares" é uma demonstração de como criar uma página web responsiva e atraente usando HTML, CSS e possivelmente JavaScript. Este projeto foi criado com fins educacionais e de aprendizado.
 
-## Funcionalidades
-
-- Apresenta o layout e design da página "Solares" original.
-- Demonstração de técnicas de desenvolvimento web responsivo.
-- Links de navegação para diferentes seções da página.
-
 ## Conteúdo
 
 HTML
