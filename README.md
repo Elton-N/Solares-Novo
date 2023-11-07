@@ -30,11 +30,11 @@ Outros arquivos
 Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes desafios:
 
 A organização eficiente de elementos em linhas e colunas proporciona uma experiência de usuário agradável.
+
 Utilização de elementos sobrepostos para criar camadas de design envolventes e interessantes.
 
 ## Implantar
 
 O projeto está disponível em https://solares-novo.vercel.app/ no Vercel para visualização.
 
-Seja bem-vindo ao Solares, e sinta-se à vontade para contribuir ou entrar em contato conosco!
 
